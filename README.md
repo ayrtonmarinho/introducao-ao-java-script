@@ -1,2 +1,2 @@
 # introducao-ao-java-script
-Introdução ao JS
+Introdução ao JS (Estudo)
